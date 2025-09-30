@@ -39,7 +39,7 @@
 
 
 ## 🚀 Featured Projects  
-- **[Brain MRI Tumour Prediction & Decision-Support App](link-to-repo)** – CNN-based model (97% accuracy), tumour highlighting, Grad-CAM, PDF reports, chatbot.  
+- **[Brain MRI Tumour Prediction & Decision-Support App](https://github.com/sakshi-mohite01/Brain-MRI-Tumour-Prediction)** – CNN-based model (97% accuracy), tumour highlighting, Grad-CAM, PDF reports, chatbot.  
 - **[Diabetes Risk Prediction](https://github.com/sakshi-mohite01/Diabetes_Prediction)** – End-to-end ML pipeline, 78% accuracy, automated workflows, Streamlit demo.  
 - **[User Registration App](https://github.com/sakshi-mohite01/python_project-)** – Secure login/signup system with MySQL backend.  
 
