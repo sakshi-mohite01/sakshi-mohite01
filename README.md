@@ -45,20 +45,6 @@
 
 ---
 
-## 🛠️ Skills  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Languages:** Python, R, SQL  
-**ML/DL:** scikit-learn, PyTorch, CNN, SVM  
-**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-**Tools:** Streamlit, MySQL, Git/GitHub, Excel  
-
----
-
 ## 📫 Connect with Me  
 - [LinkedIn](https://linkedin.com/in/sakshi-mohite03)  
 - [GitHub](https://github.com/sakshi-mohite01)  
